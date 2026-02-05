@@ -23,7 +23,7 @@ Conduct an **Open Source Intelligence (OSINT)** investigation using automated re
 ## 👨‍💻 About Me
 I’m Sameer Malik, a cybersecurity learner practicing full-spectrum cyber offense techniques.
 
-📌 **LinkedIn**: [sameer-malik-18b52634b](https://www.linkedin.com/in/sameer-malik-18b52634b/)
+📌 **LinkedIn**: [sameer-malik-18b52634b](https://www.linkedin.com/in/muhamad-sameer-malik-18b52634b/)
 
 ---
 > 🕶️ _"The most dangerous leaks aren’t zero-days — they’re overshared selfies and public S3 buckets."_  
